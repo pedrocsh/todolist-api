@@ -6,7 +6,8 @@
   "author": "Pedro Cardoso <peedro.shell@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepare": "husky"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.20.0",
